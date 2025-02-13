@@ -10,6 +10,7 @@ function App() {
         </p>
         <p className="small">
           Edit <code>src/App.jsx</code> and save to reload.
+        <p>Hello,Natthapong Saehaw</p>
         </p>
         <p>
           <a
